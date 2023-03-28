@@ -2,7 +2,7 @@ import pypyodbc as odbc
 
 # Set up connection parameters
 driver_name = 'SQL Server'
-server_name = '192.168.1.4'
+server_name = 'server 1,2,3,23,1'
 database_name = 'test'
 uid = 'sa'
 pwd = 'password'
