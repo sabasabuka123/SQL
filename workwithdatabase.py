@@ -5,7 +5,7 @@ driver_name = 'SQL Server'
 server_name = '192.168.1.4'
 database_name = 'test'
 uid = 'sa'
-pwd = 'SqlPassW0rd'
+pwd = 'password'
 
 # Create connection string
 connection_string = f'DRIVER={{{driver_name}}};SERVER={server_name};DATABASE={database_name};UID={uid};PWD={pwd}'
